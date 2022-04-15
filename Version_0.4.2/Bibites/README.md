@@ -1,1 +1,3 @@
-This folder contains all Bibit models
+#Herbivores
+
+#Predators
