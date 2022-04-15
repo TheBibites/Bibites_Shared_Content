@@ -5,7 +5,7 @@ This is a simple herbivore known for monching happily away at plant pellets
 * Basic Brain
 * Basic Size
 * Basic Color
-* Omnivore
+* Herbivore
 ## Genetics:
 ![image](https://user-images.githubusercontent.com/12953812/163618562-4ac49d0b-92ec-4c2f-8ed5-5fb7ed27261a.png)
 ## Brain:
