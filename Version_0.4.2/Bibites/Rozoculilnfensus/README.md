@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/12953812/163622232-6e031e4b-253a-4591-a9f6-1294c62625b0.png)
 # Rozoculilnfensus - _Created by Naotagrey_ 
-This is a generic test Bibit
+An extra herby herbivore.
 
-* Basic Brain
-* Basic Size
-* Basic Color
-* Omnivore
+* Large Brain
+* Large Size
+* Neon green
+* Herbivore
 ## Genetics:
 ![image](https://user-images.githubusercontent.com/12953812/163622254-2cea6ddc-cc56-4aa8-9491-e68059cf9d0b.png)
 ## Brain:
