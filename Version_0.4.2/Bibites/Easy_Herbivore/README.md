@@ -1,4 +1,4 @@
-![Test_Bibite](https://user-images.githubusercontent.com/12953812/163606730-d9603a03-4740-478b-b616-dc2107bdb4ab.png)
+![image](https://user-images.githubusercontent.com/12953812/163618258-c94f8f63-4647-4390-a2bb-b3c7fdef1fa4.png)
 # Easy Herbivore - _Created by Naotagery_ 
 This is a simple herbivore known for monching happily away at plant pellets
 
@@ -7,7 +7,7 @@ This is a simple herbivore known for monching happily away at plant pellets
 * Basic Color
 * Omnivore
 ## Genetics:
-![unnamed](https://user-images.githubusercontent.com/12953812/163608207-dc54dad2-4957-4e1a-8d12-64ff106a3c73.png) 
+![image](https://user-images.githubusercontent.com/12953812/163618562-4ac49d0b-92ec-4c2f-8ed5-5fb7ed27261a.png)
 ## Brain:
-![unnamed](https://user-images.githubusercontent.com/12953812/163608229-85e7c52e-1b22-41b9-909c-4512d89f7d52.png)
+![image](https://user-images.githubusercontent.com/12953812/163620274-a5043b4b-7e3f-4569-b0e0-ad78fb84b796.png)
 
