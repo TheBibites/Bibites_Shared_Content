@@ -1,12 +1,9 @@
 # Bibites-Library
 
-Welcome! This page is a maintained repository of the shared interesting Bibits that have been created by the community.
+Welcome! This page is a maintained repository of community shared Bibite content including Bibite species, unique worlds, simulation settings and game mods
 
-To grab a Bibit for use in your own simulations just follow the steps outlined below:
-1.
-2.
-3.
 
-If you are interested in sharing some of the Bibits you have evolved, please reach out on one of the following channels and an admin will work with you to archive.
+If you are interested in sharing some of your on Bibit content with the rest of the community please coordinate its archival in one of the community channels
+
 Discord link
 Reddit Link
