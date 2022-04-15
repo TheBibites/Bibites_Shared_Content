@@ -1,6 +1,12 @@
 # Bibites-Library
-A directory for sharing and logging notable Bibites for the community
 
-This Bibite directory is organized by game revisions.  Using bibits in releases different than the ones they evovled in may lead to errors
+Welcome! This page is a maintained repository of the shared interesting Bibits that have been created by the community.
 
-If you are interested in having one of your own bibit species shared with the community please post and the community discord for upload
+To grab a Bibit for use in your own simulations just follow the steps outlined below:
+1.
+2.
+3.
+
+If you are interested in sharing some of the Bibits you have evolved, please reach out on one of the following channels and an admin will work with you to archive.
+Discord link
+Reddit Link
