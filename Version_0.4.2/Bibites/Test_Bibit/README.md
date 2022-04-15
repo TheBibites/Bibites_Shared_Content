@@ -5,7 +5,7 @@ This is a generic test Bibit
 * Basic Brain
 * Basic Size
 * Basic Color
-* Omnivore
+* herbivore
 ## Genetics:
 ![unnamed](https://user-images.githubusercontent.com/12953812/163608207-dc54dad2-4957-4e1a-8d12-64ff106a3c73.png) 
 ## Brain:
