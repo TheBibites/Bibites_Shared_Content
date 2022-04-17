@@ -5,7 +5,7 @@ Rumored to be the first predatory Bibite to evolve. Despite his aggressive tempe
 * Basic Brain
 * Basic Size
 * Basic Color
-* Omnivore
+* Carnivore
 ## Genetics:
 ![image](https://user-images.githubusercontent.com/12953812/163621727-af5d501c-061c-488d-b4ef-88abe541f46c.png)
 ## Brain:
