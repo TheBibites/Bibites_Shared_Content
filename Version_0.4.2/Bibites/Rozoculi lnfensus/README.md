@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/12953812/163622232-6e031e4b-253a-4591-a9f6-1294c62625b0.png)
-# Rozoculilnfensus - _Created by Naotagrey_ 
+# Rozoculi lnfensus - _Created by Naotagrey_ 
 An extra herby herbivore.
+This species was taken straigth from the 100 hour simulation that got a video.
+Specifically, this species can be found around the 50 hours mark in the southern island of the simulation.
 
 * Large Brain
 * Large Size
