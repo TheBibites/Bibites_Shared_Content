@@ -5,6 +5,6 @@ Modding will be done through adding mods to the Mods folder in the game's root. 
 
 **Mac:** <path to player app bundle>/Contents/Mods
 
-**Note:** Those folders will only be generated after the game was opened at least once. So if you can't find them, run the game, then close it. It should then be there.
+**Note:** *Those folders will only be generated after the game was opened at least once. So if you can't find them, run the game, then close it. It should then be there.*
 
 For more information a complete "How-to" guide is maintained on the Bibite wiki page: [Bibites_Modding](https://the-bibites.fandom.com/wiki/Modding)
