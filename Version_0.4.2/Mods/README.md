@@ -1,5 +1,5 @@
 # Modding
-Modding will be done through adding mods to the Mods folder in the game's root. The can be found in the following path starting from the game's executable:
+Modding will be done through adding the **downloaded unzipped mod folder** to the Mods folder in the game's root directory. The can be found in the following path starting from the game's executable:
 
 **Windows (32x, 64x) and Linux:** <path to executable folder>/The Bibites_Data/Mods/
 
