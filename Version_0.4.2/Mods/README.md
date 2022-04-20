@@ -3,7 +3,7 @@ Modding will be done through adding mods to the Mods folder in the game's root. 
 
 **Windows (32x, 64x) and Linux:** <path to executable folder>/The Bibites_Data/Mods/
 
-**Mac:** <path to player app bundle>/Contents/Mods
+**Mac:** <path to player app bundle>/Contents/Mods/
 
 **Note:** *Those folders will only be generated after the game was opened at least once. So if you can't find them, run the game, then close it. It should then be there.*
 
