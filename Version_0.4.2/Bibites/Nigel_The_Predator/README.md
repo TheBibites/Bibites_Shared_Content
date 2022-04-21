@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/12953812/163621678-38d3c667-bf07-4f7c-b3b9-07f9d5d4f52e.png)
-# Nigel The Predator - _Created by Naotagray_ 
+# Nigel The Predator - _Created by Naotagrey_ 
 Rumored to be the first predatory Bibite to evolve. Despite his aggressive tempermant, Nigel will always have a special place in our hearts.
 
 * Basic Brain

@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/12953812/163618258-c94f8f63-4647-4390-a2bb-b3c7fdef1fa4.png)
-# Easy Herbivore - _Created by Naotagery_ 
+# Easy Herbivore - _Created by Naotagrey_ 
 This is a simple herbivore known for monching happily away at plant pellets
 
 * Basic Brain
