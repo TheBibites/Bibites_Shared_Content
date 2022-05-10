@@ -8,6 +8,8 @@ This is a trial Bibite tournament to test a structured competition between commu
 
 **Duration:** 100hrs or until one contestant species remains
 
+**Game Version:** 0.4.2a2
+
 **Announced:** 5/10/2022
 
 **Start:** 5/17/2022
