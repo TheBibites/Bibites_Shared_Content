@@ -1,4 +1,4 @@
-# Community Tournament 1A
+# Community Tournament a1
 This is a trial Bibite tournament to test a structured competition between community Bibites.
 
 *By submitting a Bibite to this competion you agree to have this Bibite shared with the broader community for download and use in their own simulations*
