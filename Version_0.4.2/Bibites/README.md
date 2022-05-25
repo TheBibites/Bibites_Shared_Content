@@ -3,5 +3,8 @@
 * [RozoculiInfensus.zip](Rozoculi_lnfensus/RozoculiInfensus.zip)
 * [GenericLarry.zip](Generic_Larry/GenericLarry.zip)
 * [Phero_Funny.zip](Funny_Pheromone_Bibites/Phero_Funny.zip)
+* [a1_Creator_Champion.zip](a1_Creator_Champion/a1_Creator_Champion.zip)
+* [a1_Evo_Cyclops.zip](a1_Evo_Cyclops/a1_Evo_Cyclops.zip)
+* [a1_Rhobibot.zip](a1_Rhobibot/a1_Rhobibot.zip)
 # Carnivore
 * [NigelThePredator.zip](Nigel_The_Predator/NigelThePredator.zip)
