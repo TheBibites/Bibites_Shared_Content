@@ -29,7 +29,6 @@ The tournament world settings are a slight variation to the defaults. Major twea
 * Virgin Bibite spawn disabled
 * Pellets can merge upon collision
 
-![a1_World_Capture](https://user-images.githubusercontent.com/12953812/167732011-5cbbe479-4973-4dc8-b9ab-20ad3beb8c71.JPG)
 ![a1_World_Info_Capture](https://user-images.githubusercontent.com/12953812/167732027-57b23244-eaaf-4a67-9a96-284596d1b590.JPG)
 
 ## Single Loss Elimination 16 Bibite Bracket Round Information
@@ -43,5 +42,4 @@ The tournament world settings are a slight variation to the defaults. Major twea
 * Virgin Bibite spawn disabled
 * Pellets can merge upon collision
 
-![a1_World_Capture](https://user-images.githubusercontent.com/12953812/167732011-5cbbe479-4973-4dc8-b9ab-20ad3beb8c71.JPG)
 ![a1_World_Info_Capture](https://user-images.githubusercontent.com/12953812/167732027-57b23244-eaaf-4a67-9a96-284596d1b590.JPG)
