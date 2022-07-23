@@ -10,7 +10,7 @@ The Constance Mod is about fixing certain traits of a Bibite, certain neurons an
 ## Installation Guide
 How to install the Constance Mod: 
 1)	Make a Backup of your Bibite game folder. 
-2) Take the file *BibitesAssembly.dll* from this Constance Mod folder and drop it into *[your Bibite folder]\The Bibites_Data\Managed*. When Windows asks you, if you want to replace the file, you click yes. 
+2) Take the file *BibitesAssembly.dll* from this Constance Mod folder and drop it into *[your Bibite folder]\The Bibites_Data\Managed*. When Windows asks you, if you want to replace the file, you click yes. Doesn't work on mac 
 
 ## Use Guide
 How to make the Constance Mod fix what you want. 
