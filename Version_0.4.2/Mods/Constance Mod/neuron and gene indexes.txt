@@ -1,0 +1,94 @@
+[NEURON TYPES]
+ 0: Input
+ 1: Sigmoid
+ 2: Linear
+ 3: TanH
+ 4: Sin
+ 5: ReLu
+ 6: Gaussian
+ 7: Latch
+ 8: Differential
+ 9: Abs
+ 
+[NEURON INDEXES]
+[inputs]
+ 0:  Constant
+ 1:  EnergyRatio
+ 2:  Maturity
+ 3:  LifeRatio
+ 4:  Fullness
+ 5:  Speed
+ 6:  IsGrabbingObjects
+ 7:  AttackedDamage
+ 8:  BibiteCloseness
+ 9:  BibiteAngle
+ 10: NBibites
+ 11: PlantCloseness
+ 12: PlantAngle
+ 13: NPlants
+ 14: MeatCloseness
+ 15: MeatAngle
+ 16: NMeats
+ 17: RedBibite
+ 18: GreenBibite
+ 19: BlueBibite
+ 20: Tic
+ 21: Minute
+ 22: TimeAlive
+ 23: PheroSense1
+ 24: PheroSense2
+ 25: PheroSense3
+ 26: Phero1Angle
+ 27: Phero2Angle
+ 28: Phero3Angle
+ 29: Phero1Heading
+ 30: Phero2Heading
+ 31: Phero3Heading
+ 32: InfectionRate
+
+[outputs]
+ 33: Accelerate
+ 34: Rotate
+ 35: Herding
+ 36: Want2Lay
+ 37: Want2Eat
+ 38: Digestion
+ 39: Grab
+ 40: ClkReset
+ 41: PhereOut1
+ 42: PhereOut2
+ 43: PhereOut3
+ 45: Want2Grow
+ 46: Want2Heal
+ 47: ImmuneSystem
+
+
+[GENE INDEXES]
+ 0:  LayTime
+ 1:  BroodTime
+ 2:  HatchTime
+ 3:  SizeRatio
+ 4:  SpeedRatio
+ 5:  ColorR
+ 6:  ColorG
+ 7:  ColorB
+ 8:  Strength
+ 9:  Defence
+ 10: MutationAmountSigma
+ 11: AverageMutationNumber
+ 12: BrainMutationSigma
+ 13: BrainAverageMutation
+ 14: ViewAngle
+ 15: ViewRadius
+ 16: ClockSpeed
+ 17: PheroSense
+ 18: Diet
+ 19: ImmuneSystemStrength
+ 20: HerdSeparationWeight
+ 21: HerdAlignmentWeight
+ 22: HerdCohesionWeight
+ 23: HerdVelocityWeight
+ 24: HerdSeparationDistance
+ 25: GrowthScale
+ 26: GrowthMaturityFactor
+ 27: GrowthMaturityExponent
