@@ -1,0 +1,110 @@
+[NEURON TYPES]
+ 0:  Input
+ 1:  Sigmoid
+ 2:  Linear
+ 3:  TanH
+ 4:  Sin
+ 5:  ReLu
+ 6:  Gaussian
+ 7:  Latch
+ 8:  Differential
+ 9:  Abs
+ 10: Mult                [NeuronsPlus]
+ 11: Div                 [NeuronsPlus]
+ 12: Ln                  [NeuronsPlus]
+ 13: Exp                 [NeuronsPlus]
+
+[NEURONS]
+[inputs]
+ 0:  Constant
+ 1:  EnergyRatio
+ 2:  Maturity
+ 3:  LifeRatio
+ 4:  Fullness
+ 5:  Speed
+ 6:  RotationSpeed       [SensesPlus]
+ 7:  IsGrabbingObjects
+ 8:  AttackedDamage
+ 9:  BibiteCloseness
+ 10: BibiteAngle
+ 11: BibiteHeading       [SensesPlus]
+ 12: NBibites
+ 13: PlantCloseness
+ 14: PlantAngle
+ 15: NPlants
+ 16: MeatCloseness
+ 17: MeatAngle
+ 18: NMeats
+ 19: TargetDiet          [SensesPlus]
+ 20: TargetSpeed         [SensesPlus] 
+ 21: TargetSize          [SensesPlus]
+ 22: TargetRed
+ 23: TargetGreen
+ 24: TargetBlue
+ 25  OwnRed              [SensesPlus]
+ 26  OwnGreen            [SensesPlus]
+ 27  OwnBlue             [SensesPlus]
+ 28: Tic 
+ 29: Minute
+ 30: TimeAlive
+ 31: PheroSense1
+ 32: PheroSense2
+ 33: PheroSense3
+ 34: Phero1Angle
+ 35: Phero2Angle
+ 36: Phero3Angle
+ 37: Phero1Heading
+ 38: Phero2Heading
+ 39: Phero3Heading
+ 40: InfectionRate      
+
+[outputs]
+ 41: Accelerate
+ 42: Rotate
+ 43: Herding
+ 44: Want2Lay
+ 45: Want2Eat
+ 46: Digestion
+ 47: Grab
+ 48: ClkReset
+ 49: PhereOut1
+ 50: PhereOut2
+ 51: PhereOut3
+ 52: Want2Grow
+ 53: Want2Heal
+ 54: Want2Attack
+ 55: ImmuneSystem       
+ 56: FieldOfView         [YBKs_VisionReworkMod]
+ 57: Panning             [YBKs_VisionReworkMod]
+ 58: RadiusofView        [YBKs_VisionReworkMod]
+
+
+[GENES]
+ 0:  LayTime
+ 1:  BroodTime
+ 2:  HatchTime
+ 3:  SizeRatio
+ 4:  SpeedRatio
+ 5:  ColorR
+ 6:  ColorG
+ 7:  ColorB
+ 8:  Strength
+ 9:  Defence
+ 10: MutationAmountSigma
+ 11: AverageMutationNumber
+ 12: BrainMutationSigma
+ 13: BrainAverageMutation
+ 14: ViewAngle
+ 15: ViewRadius
+ 16: ClockSpeed
+ 17: PheroSense
+ 18: Diet
+ 19: ImmuneSystemStrength
+ 20: HerdSeparationWeight
+ 21: HerdAlignmentWeight
+ 22: HerdCohesionWeight
+ 23: HerdVelocityWeight
+ 24: HerdSeparationDistance
+ 25: GrowthScale
+ 26: GrowthMaturityFactor
+ 27: GrowthMaturityExponent

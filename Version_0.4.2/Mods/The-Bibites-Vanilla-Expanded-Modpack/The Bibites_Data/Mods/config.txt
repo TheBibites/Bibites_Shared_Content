@@ -1,0 +1,16 @@
+{
+  "NeuronsPlus": {
+    "Active": true
+  },
+  "SensesPlus": {
+    "Active": true
+  },
+  "YBKs_VisionReworkMod": {
+    "Active": true,
+    "DefaultMultiplyerIsOne": true
+  },
+  "BetterInitialConnections": {
+    "Active": true, 
+    "NoAggressiveVirgins": true
+  }
+}
